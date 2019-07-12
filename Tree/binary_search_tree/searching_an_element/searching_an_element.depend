@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561313606 source:e:\online_codes\codes\data_structure\tree\binary_search_tree\searching_an_element\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+

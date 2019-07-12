@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552602761 source:/home/mddilshad/googledrive/data_structure_sorted/sustring_search/substr_srch/main.cpp
+	<iostream>
+	<cstdlib>
+

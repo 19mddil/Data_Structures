@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557520755 source:/home/mddilshad/Desktop/data_structure_billion_attempt/stack/infix_to_postfix/main.cpp
+	<iostream>
+	<cctype>
+	<cstdlib>
+	<iomanip>
+
